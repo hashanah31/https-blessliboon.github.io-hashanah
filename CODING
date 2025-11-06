@@ -1,0 +1,98 @@
+CODING OF MY 2 PROJECTS
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Bless Libo-on | Project Portfolio</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f7fa;
+      color: #333;
+    }
+    header {
+      background: #0078d7;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    h1 { margin: 0; font-size: 2em; }
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .project {
+      border-bottom: 1px solid #ddd;
+      padding: 20px 0;
+    }
+    .project:last-child { border-bottom: none; }
+    h2 { color: #0078d7; }
+    a {
+      text-decoration: none;
+      color: #0078d7;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Bless Libo-on's Project Portfolio</h1>
+    <p>Showcasing Academic and Capstone Works</p>
+  </header>
+
+  <div class="container">
+
+    <div class="project">
+      <h2>📘 College Management System</h2>
+      <p>
+        A Python–Tkinter–MySQL-based system designed to manage student and teacher records efficiently. 
+        It includes CRUD operations, cloud-based accessibility, and Agile development practices.
+      </p>
+      <p>
+        <a href="https://yourusername.github.io/college-management-system" target="_blank">
+          🔗 View Project
+        </a>
+      </p>
+    </div>
+
+    <div class="project">
+      <h2>🚍 Queue System for Jeepney Transportation</h2>
+      <p>
+        A Java-based queue management application that allows seat reservations and efficient queue checking using LinkedList. 
+        Designed to reduce delays and improve transportation flow.
+      </p>
+      <p>
+        <a href="https://yourusername.github.io/jeepney-queue-system" target="_blank">
+          🔗 View Project
+        </a>
+      </p>
+    </div>
+
+  </div>
+
+  <footer>
+    © 2025 Bless Libo-on | Developed with 💙 and Code
+  </footer>
+
+</body>
+</html>
